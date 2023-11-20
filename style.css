@@ -1,0 +1,31 @@
+body{
+    font-family: sans-serif;
+}
+
+.title{
+    
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    color: green;
+}
+
+a:hover{
+    color: purple;
+}
+
+a:active{
+    color: aqua;
+}
+
+a:visited{
+    color: brown;
+}
+p{
+    color: green;
+    border: 2px solid red;
+}
+strong,em{
+    border: inherit;
+}
